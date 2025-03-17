@@ -21,3 +21,13 @@ git config --global user.name "parvathy">> configure git with our username
  git.add>> all files added to the stage area
 
  git clone reopository url>> for cloning a repository from github
+
+
+ creating brach in git hub 
+
+ git branch <branchname>
+
+ git switch <branchname>
+
+ git branch new branch
+ 
